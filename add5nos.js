@@ -1,0 +1,9 @@
+tam=90
+eng=91
+mat=92
+sci=94
+soc=95
+sum=tam+eng+mat+sci+soc
+console.log(sum)
+avg=sum/5
+console.log(avg)
